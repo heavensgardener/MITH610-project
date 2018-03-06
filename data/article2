@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+     <fileDesc>
+        <titleStmt>
+                <title type="main">Profs report racism</title>
+                <title type="sub">Discrimination charged in Balto. med schools</title>
+	<author>
+                 <persName>Mischa Wolfinger</persName>
+	</author>
+  <respStmt>
+	<resp>Encoded by</resp>
+	<persName>Mischa Wolfinger</persName>
+	</respStmt>
+        </titleStmt>
+
+        <publicationStmt>
+          <publisher>
+	       <orgName ref="#MITH">Maryland Institute for Technology in the
+                 Humanities (MITH)</orgName>
+	</publisher>
+	 <pubPlace>
+	     <settlement>College Park</settlement>
+	      <region>Maryland</region>
+                </pubPlace>
+                <date when="2018313">March 13th, 2018</date>
+            </publicationStmt>
+        <sourceDesc>
+           <bibl>
+	      <title>The Diamondback</title>
+               <publisher>The University of Maryland - College Park </publisher>
+               <pubPlace>
+                   <settlement>College Park</settlement>
+	                 <region>Maryland</region>
+		</pubPlace>
+               <date when="1969103">March 10th, 1969</date>
+               <author>Larry Miller</author>
+              </bibl>
+        </sourceDesc>
+     </fileDesc>
+ </teiHeader>
+<text>
+<body>
+<cb/>
+<p>
+Two <orgName><placeName>Johns Hopkins University</placeName></orgName>
+professors have charged that
+<placeName>Baltimore</placeName> area medical, dental
+and nursing schools are guilty
+of <quote>“de facto discrimination”</quote>
+against black students.
+Dr. <persName>M. Alfred Haynes</persName>, <lb/>asso­c
+iate<lb break="no"></lb> professor at <orgName><placeName>Johns Hop­
+kins School of Hygiene and Pub­
+lic Health</placeName></orgName>, and <persName>Victor H. Dates</persName>,
+director of special programs for
+<cb/>
+<orgName><placeName>Johns Hopkins</placeName></orgName>, published their
+findings in a survey published
+in a recent issue of the <title>Journal
+of Medical Education</title>.
+The survey reviewed the <lb/>ra­
+cial<lb break="no"></lb> composition of graduating
+classes at medical schools in the
+state over the past <num>three</num> years.
+The survey found that the <orgName><placeName><lb/>Uni­
+versity<lb break="no"></lb> medical school</placeName></orgName> in <lb/>Balti­
+more<lb break="no"></lb> graduated <num>13</num> blacks, or <num>2</num>
+per cent of the total. <orgName><placeName>Johns
+Hopkins</placeName></orgName> graduated only <num>two</num>
+blacks during the same period.
+The <orgName><placeName>University dental school</placeName></orgName>,
+the only one in the state,<lb/>grad­
+uated <num>no</num> blacks<lb break="no"></lb> the report
+showed.</p>
+<p>
+There are <num>five</num> blacks now at­
+tending the <orgName><placeName>University medical
+school</placeName></orgName>, and <num>two</num> are enrolled in
+the <orgName><placeName>dental school.</placeName></orgName>
+The survey also revealed that
+<num>five</num> <placeName>Baltimore</placeName> nursing schools
+have only <num>13</num> Negroes currently
+<cb/>
+attending classes out of a <lb/>com­
+bined<lb break="no"></lb>total enrollment of <num>1,686</num>
+students.
+<persName>Dates</persName> said the main reason
+more blacks are not accepted by
+the schools is the lack of <lb/>satis­
+factory<lb break="no"></lb> preparation in primary
+and secondary schools.
+<quote>“They don’t meet the neces­
+sary academic standards to be
+accepted,’’</quote> he explained.
+When there are academically
+prepared blacks, <persName>Dates</persName> said,
+<quote>“Competition for these <lb/>individ­
+uals<lb break="no"></lb> is very keen. There are not
+enough of them.”</quote>
+Dates said he hopes <quote>“that
+(medical) schools will intensify
+their efforts to find, recruit and
+offer admission to capable
+blacks.”</quote>
+The survey called upon state
+and federal government to <quote>“exert
+strong economic pressures to
+improve the situation.”</quote>
+</p>
+</body>
+</text>
+</TEI>
