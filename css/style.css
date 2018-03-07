@@ -8,7 +8,7 @@ tei-teiHeader {
 }
 tei-num {color:red; font-style: oblique;}
 tei-persName {color:green; font-style:italic;}
-tei-orgName {color:blue; font-style:oblique;}
-tei-placeName {color:purple; font-style:oblique;}
+tei-orgName {color:blue; font-style:italic;;}
+tei-placeName {color:purple; font-style:italic;}
 tei-quote {color:gold; font-style:oblique;}
  
