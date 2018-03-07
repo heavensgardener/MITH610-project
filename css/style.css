@@ -6,4 +6,4 @@
 tei-teiHeader {
   display: none;
 }
-tei-num {color:red;}
+tei-num {color:red; font-style: oblique;}
