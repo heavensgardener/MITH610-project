@@ -10,4 +10,5 @@ tei-num {color:red; font-style: oblique;}
 tei-persName {color:green; font-style:italic;}
 tei-orgName {color:blue; font-style:italic;;}
 tei-placeName {color:purple; font-style:italic;}
-tei-quote {color:#pink; font-style:oblique;}
+tei-quote {color:pink; font-style:oblique;}
+head {text-align: center;}
